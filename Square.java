@@ -10,7 +10,7 @@ public class Square {
     }
     public Square() {
         this.hCoordinate = 1;
-        this.vCoordinate = 'A'; // This should be initialized correctly
+        this.vCoordinate = 'A'; 
         this.state = ' ';
     }
     public Square(Square copy) { 
